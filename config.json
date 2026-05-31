@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcrocess",
+        "uuid": 994672,
+        "checksum": "es61mp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
